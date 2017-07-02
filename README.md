@@ -13,3 +13,9 @@ threads.py有参考价值，实现了PyQT里线程的使用，避免卡死
 
 data_structure.py里实现了各种数据结构
 
+
+
+pytab3.py为主程序 处理各个子模块
+
+
+pyfirstlogin.py为入口程序，在Pycharm(不能在命令行 因为有玄学问题)中运行即可
